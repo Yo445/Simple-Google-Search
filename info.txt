@@ -1,0 +1,9 @@
+Task 1 (Easy)
+
+Create a simple HTML page with an input field that allows users to enter a search query and upon submission, redirects them to Google search results for that query.
+
+Requirements:
+
+HTML Page: Create an HTML document named google_search.html.
+Input Field: Include a text input field where users can enter their search query.
+Submit Button: Add a submit button that users can click to initiate the search.
